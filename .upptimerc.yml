@@ -23,7 +23,7 @@ sites:
       - 200
     __dangerous__body_down_if_text_missing: "OK"
   - name: SMTP Submission
-    url: mail.copykor.in.ua
+    url: $SMTP_HOST
     port: 587
     check: "tcp-ping"
 
