@@ -18,7 +18,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Media storage
-    url: https://assets.tvoyaridna.com/health.txt
+    url: $MEDIA_STORAGE_URL
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: "OK"
