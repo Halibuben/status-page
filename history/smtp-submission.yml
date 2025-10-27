@@ -1,7 +1,7 @@
 url: $SMTP_HOST
 status: up
 code: 200
-responseTime: 130
-lastUpdated: 2025-10-26T23:11:57.481Z
+responseTime: 179
+lastUpdated: 2025-10-27T12:36:44.967Z
 startTime: 2025-10-26T20:46:54.252Z
 generator: Upptime <https://github.com/upptime/upptime>
