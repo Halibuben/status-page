@@ -5,16 +5,12 @@ repo: status-page # The name of this repository
 check-cert-expiry: 14
 
 sites:
-  - name: Community website
+  - name: Website & API
     url: https://tvoyaridna.com/health
     expectedStatusCodes:
       - 200
   - name: Streaming API
     url: https://tvoyaridna.com/api/v1/streaming/health
-    expectedStatusCodes:
-      - 200
-  - name: Public API
-    url: https://tvoyaridna.com/api/v2/instance
     expectedStatusCodes:
       - 200
   - name: Media storage
