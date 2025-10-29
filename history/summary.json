@@ -4,19 +4,19 @@
     "url": "https://tvoyaridna.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/tvoyaridna.com.ico",
     "slug": "website-and-api",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 5408,
-    "timeDay": 10202,
-    "timeWeek": 5408,
-    "timeMonth": 5408,
-    "timeYear": 5408,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 4467,
+    "timeDay": 7036,
+    "timeWeek": 4467,
+    "timeMonth": 4467,
+    "timeYear": 4467,
     "dailyMinutesDown": {
-      "2025-10-29": 1
+      "2025-10-29": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://tvoyaridna.com/api/v1/streaming/health",
     "icon": "https://icons.duckduckgo.com/ip3/tvoyaridna.com.ico",
     "slug": "streaming-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2325,
-    "timeDay": 9882,
-    "timeWeek": 2325,
-    "timeMonth": 2325,
-    "timeYear": 2325,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 2113,
+    "timeDay": 6658,
+    "timeWeek": 2113,
+    "timeMonth": 2113,
+    "timeYear": 2113,
     "dailyMinutesDown": {
-      "2025-10-29": 0
+      "2025-10-29": 13
     }
   },
   {
