@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tvoyaridna.com.ico",
     "slug": "website-and-api",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 4467,
-    "timeDay": 7036,
-    "timeWeek": 4467,
-    "timeMonth": 4467,
-    "timeYear": 4467,
-    "dailyMinutesDown": {
-      "2025-10-29": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3799,
+    "timeDay": 5391,
+    "timeWeek": 3799,
+    "timeMonth": 3799,
+    "timeYear": 3799,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Streaming API",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tvoyaridna.com.ico",
     "slug": "streaming-api",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 2113,
-    "timeDay": 6658,
-    "timeWeek": 2113,
-    "timeMonth": 2113,
-    "timeYear": 2113,
-    "dailyMinutesDown": {
-      "2025-10-29": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1933,
+    "timeDay": 5025,
+    "timeWeek": 1933,
+    "timeMonth": 1933,
+    "timeYear": 1933,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Media storage",
@@ -68,11 +64,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 131,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 140,
+    "timeDay": 124,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Hosting",
+    "url": "$HOSTING",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "hosting",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-10-29": 0
+    }
   }
 ]
