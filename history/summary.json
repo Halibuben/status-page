@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ridnafood.com.ico",
     "slug": "store-ridna-food",
     "status": "down",
-    "uptime": "1.84%",
-    "uptimeDay": "1.84%",
-    "uptimeWeek": "1.84%",
-    "uptimeMonth": "1.84%",
-    "uptimeYear": "1.84%",
+    "uptime": "1.98%",
+    "uptimeDay": "1.98%",
+    "uptimeWeek": "1.98%",
+    "uptimeMonth": "1.98%",
+    "uptimeYear": "1.98%",
     "time": 620,
     "timeDay": 620,
     "timeWeek": 620,
@@ -25,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tvoyaridna.com.ico",
     "slug": "store-tvoya-ridna",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "90.62%",
+    "uptimeDay": "90.62%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "90.62%",
     "time": 19746,
     "timeDay": 19746,
     "timeWeek": 19746,
     "timeMonth": 19746,
     "timeYear": 19746,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-15": 0
+    }
   }
 ]
