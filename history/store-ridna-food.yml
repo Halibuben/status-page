@@ -1,7 +1,7 @@
 url: https://ridnafood.com/
-status: up
-code: 200
-responseTime: 658
-lastUpdated: 2026-03-18T10:32:58.982Z
+status: down
+code: 401
+responseTime: 591
+lastUpdated: 2026-03-18T15:01:23.074Z
 startTime: 2026-03-15T12:02:10.977Z
 generator: Upptime <https://github.com/upptime/upptime>
